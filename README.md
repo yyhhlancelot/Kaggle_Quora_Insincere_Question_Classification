@@ -11,3 +11,10 @@ NLP的比赛和普通的数据挖掘比赛有很大的不同，普通的数据�
 
 ## 感悟与收获：
 最重要的收获是感觉自己NLP终于入了门，同时了解了各种前沿的论文对于NLP建模的影响，需要阅读更多的论文，因为基本上好的nlp模型都是从现有论文中衍生的（当然很多大神是通过比赛验证自己的模型然后再发Paper），这和从数据中衍生的数据挖掘出的特征真的是有很大的区别。同时这次比赛借鉴了很多别人的方案，在以后更需要做的是站在巨人的肩膀上做出自己的一些想法。在这次比赛后，发现nlp真是一个巨大无比的坑，还有太多需要学习的地方，继续加油，保持危机感。
+[Quora Insincere Questions Classification 总结与心得感想](https://blog.csdn.net/yyhhlancelot/article/details/87262813)
+
+## 我的NLP学习笔记：
+[NLP学习笔记(一) : 数据预处理（关键词：词袋，简单）](https://blog.csdn.net/yyhhlancelot/article/details/85162557)
+[NLP学习笔记（二）：创建特征及训练（关键词：词袋，TFIDF）](https://blog.csdn.net/yyhhlancelot/article/details/85165248)
+[NLP学习笔记（三）：模型训练之深度学习方案详解（关键词：深度学习，词向量，RNN，LSTM）](https://blog.csdn.net/yyhhlancelot/article/details/85229665)
+[NLP学习笔记（四）：关于keras的Input层与embedding层全解析](https://blog.csdn.net/yyhhlancelot/article/details/86534793)
