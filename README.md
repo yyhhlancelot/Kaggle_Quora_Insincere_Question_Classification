@@ -15,6 +15,9 @@ NLP的比赛和普通的数据挖掘比赛有很大的不同，普通的数据�
 
 ## 我的NLP学习笔记：
 [NLP学习笔记(一) : 数据预处理（关键词：词袋，简单）](https://blog.csdn.net/yyhhlancelot/article/details/85162557)
+
 [NLP学习笔记（二）：创建特征及训练（关键词：词袋，TFIDF）](https://blog.csdn.net/yyhhlancelot/article/details/85165248)
+
 [NLP学习笔记（三）：模型训练之深度学习方案详解（关键词：深度学习，词向量，RNN，LSTM）](https://blog.csdn.net/yyhhlancelot/article/details/85229665)
+
 [NLP学习笔记（四）：关于keras的Input层与embedding层全解析](https://blog.csdn.net/yyhhlancelot/article/details/86534793)
